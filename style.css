@@ -1,0 +1,37 @@
+
+body{
+background-color: #000000;
+	font-family:Verdana;
+	font-size:18px;
+	color:#ffffff}
+
+div.kirjaudu{
+margin-top: 5%;
+margin-right: 15%;
+margin-left: 85%}
+
+.kirjaudu {
+	background-color:#050505;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:20px;
+	border:2px solid #bababa;
+	display:inline;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:14px;
+	padding:2px 7px;
+	text-decoration:none;
+}
+.kirjaudu:hover {
+	background-color:#d4d4d4;
+}
+.kirjaudu:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+	
